@@ -1,0 +1,7 @@
+{
+  "name": "PRO ADX GAME",
+  "description": "Modern premium mobile analysis app with period prediction, accuracy tracking, history, and feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
